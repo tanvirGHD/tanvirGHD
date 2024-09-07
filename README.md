@@ -19,9 +19,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 
-## 🔥 My Streak:                                                                                                        ## 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast)](https://git.io/streak-stats) 
+## 🔥 My Streak:                                                                                                                       ## 📊 My GitHub Stats:                                                                                                                                                                                                                               ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast)](https://git.io/streak-stats) 
 
 ## 🛠 Most Used Languages:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirGHD&layout=compact&theme=dark&langs_count=5)
