@@ -20,10 +20,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 
 ## 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical&bg_color=ffffff)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical)
 
 ## 🔥 My Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast&bg_color=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast)](https://git.io/streak-stats)
 
 ## 🛠 Most Used Languages:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirGHD&layout=compact&theme=dark&langs_count=5)
