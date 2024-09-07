@@ -1,6 +1,6 @@
 
-# Hi 👋, I'm Fatema Khanom
-A passionate frontend developer from Bangladesh
+# Hi 👋, I'm Tanvir Ahammad
+A passionate about Full Stack Web Developer.
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **JavaScript**
