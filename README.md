@@ -1,5 +1,5 @@
-     ### Hi 👋, I'm Tanvir Ahammad
-     ##A passionate about Full Stack Web Developer.
+     # Hi 👋, I'm Tanvir Ahammad
+     ## A passionate about Full Stack Web Developer.
 
 ## 📖 Favorite Quote:
 > "Code is like humor. When you have to explain it, it’s bad."> 
@@ -29,7 +29,7 @@
 ![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
 
  ## ⚡ GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirGHD&bg_color=000000&color=FFFFFF&line=00E676&point=FFFFFF&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?tanvirGHD=tanvirGHD&bg_color=000000&color=FFFFFF&line=00E676&point=FFFFFF&area=true)
 
 
 
