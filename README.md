@@ -1,5 +1,7 @@
-     # Hi 👋, I'm Tanvir Ahammad
-     ## A passionate about Full Stack Web Developer.
+## Hi 👋, I'm Tanvir Ahammad
+## A passionate about Full Stack Web Developer.
+
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
 
 ## 📖 Favorite Quote:
 > "Code is like humor. When you have to explain it, it’s bad."> 
@@ -23,7 +25,6 @@
 ## 📊 My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical) 
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
 
 ## 💡 My current mood: 
 ![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
