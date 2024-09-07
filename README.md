@@ -8,8 +8,8 @@ A passionate about Full Stack Web Developer.
 
 
 ## 🔥 My Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast)](https://git.io/streak-stats)   ## 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast)](https://git.io/streak-stats)  ## 📊 My GitHub Stats:![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical) 
+
  
 
 
