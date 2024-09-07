@@ -1,5 +1,5 @@
-#                                           Hi 👋, I'm Tanvir Ahammad
-##                                  Passionate about Full Stack Web Developer.
+#                                           --Hi 👋, I'm Tanvir Ahammad--
+##                                 --Passionate about Full Stack Web Developer--
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
 
@@ -30,7 +30,8 @@
 ![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
 
 ## ⚡ GitHub Activity Graph:
-![GitHub Activity Graph](https://github.com/tanvirGHD.png)
+![GitHub Activity Graph](https://gh-chart.com/tanvirGHD)
+
 
 
 
