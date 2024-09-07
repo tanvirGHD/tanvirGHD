@@ -1,4 +1,5 @@
-#                                                                                  --Hi 👋, I'm Tanvir Ahammad--                                                                                                                                    ##                                                                             --Passionate about Full Stack Web Developer--
+#                                                                                  --Hi 👋, I'm Tanvir Ahammad--                                                                                                                                    
+##                                                                             --Passionate about Full Stack Web Developer--
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanvirGHD)
 
@@ -16,6 +17,7 @@
 ## 🛠 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+[![Tailwind CSS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 
 ## 📊 My GitHub Stats:
