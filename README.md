@@ -30,7 +30,8 @@
 ![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
 
 ## ⚡ GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirGHD&bg_color=ffffff&color=008000&line=008000&point=008000&area=true&hide_border=true)
+![GitHub Activity Graph](https://github.com/tanvirGHD.png)
+
 
 
 
