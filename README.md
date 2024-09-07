@@ -2,9 +2,7 @@
      A passionate about Full Stack Web Developer.
 
 ## 📖 Favorite Quote:
-> "Code is like humor. When you have to explain it, it’s bad."
-> 
-![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+> "Code is like humor. When you have to explain it, it’s bad."> 
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **JavaScript**
@@ -31,7 +29,7 @@
 ![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
 
  ## ⚡ GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&bg_color=000000&color=FFFFFF&line=00E676&point=FFFFFF&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirGHD&bg_color=000000&color=FFFFFF&line=00E676&point=FFFFFF&area=true)
 
 
 
