@@ -1,6 +1,5 @@
-#<h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1> 
-
-#<h3 align="center">--Passionate about Full Stack Web Developer--</h3>   
+<body align="center"></body><h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1> 
+<h3 align="center">--Passionate about Full Stack Web Developer--</h3>   
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanvirGHD)
 
@@ -32,5 +31,5 @@
 
 
 ## 💡 My current mood: 
-![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
+![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge) </body>
 
