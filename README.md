@@ -1,5 +1,5 @@
-#                                                                                  --Hi 👋, I'm Tanvir Ahammad--                                                                                                                                    
-##                                                                             --Passionate about Full Stack Web Developer--
+#<h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1>                                                                                                                                    
+##--Passionate about Full Stack Web Developer--
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanvirGHD)
 
