@@ -1,4 +1,4 @@
-<body align="center"><h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1> 
+<h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1> 
 <h3 align="center">--Passionate about Full Stack Web Developer--</h3>   
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanvirGHD)
@@ -20,8 +20,8 @@
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 
-## 📊 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical)
+<h2 align="center">📊 My GitHub Stats:</h2>
+<h2 align="center">![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical)</h2>
 
 ## 🔥 My Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirGHD&theme=highcontrast)](https://git.io/streak-stats)
@@ -31,5 +31,5 @@
 
 
 ## 💡 My current mood: 
-![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge) </body>
+![Daily Mood](https://img.shields.io/badge/Mood-Coding%20like%20crazy-blue?style=for-the-badge)
 
