@@ -20,7 +20,7 @@
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 
-##📊 My GitHub Stats:
+## 📊 My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirGHD&show_icons=true&theme=radical)
 
 ## 🔥 My Streak:
