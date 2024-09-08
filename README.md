@@ -1,4 +1,4 @@
-<body align="center"></body><h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1> 
+<body align="center"><h1 align="center">--Hi 👋, I'm Tanvir Ahammad--</h1> 
 <h3 align="center">--Passionate about Full Stack Web Developer--</h3>   
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanvirGHD)
