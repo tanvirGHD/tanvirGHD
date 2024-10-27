@@ -7,8 +7,8 @@
 > "Code is like humor. When you have to explain it, it’s bad."> 
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **JavaScript**
-- 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, JavaScript,**
+- 🌱 I’m currently learning **React**
+- 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, ECMAScript, React**
 - ⚡ Fun fact: I am a programmer, I have no life
 
 ## 🤝 Let's Connect:
