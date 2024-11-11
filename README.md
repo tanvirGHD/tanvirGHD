@@ -147,40 +147,20 @@ tanvirGHD<!-- Badge -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1687531061/Store/next_fwgcua.png" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/v4BFdS7/Redux.png" alt="Redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149819/Store/styled-components_uwtdhi.png" alt="styled-components" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/72RyCgr/route-removebg-preview.png" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/KG89Bqd/Screenshot-1-removebg-preview.png" alt="react" width="40" height="40"/> 
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877581/Store/node-js_yvcjpp.png" alt="nodejs" width="35" height="40"/> 
+  <img src="https://res.cloudinary.com/tanvirGHD/image/upload/v1676877581/Store/node-js_yvcjpp.png" alt="nodejs" width="35" height="40"/> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
+
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
+  <img src="https://res.cloudinary.com/tanvirGHD/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
   </a>
 
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
+  <img src="https://res.cloudinary.com/tanvirGHD/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -196,20 +176,6 @@ tanvirGHD<!-- Badge -->
 </p>
 
 <hr>
-
- <!--  === === === === === === === Favorite Stack === === === === === === === ===  -->
-
-<h1 align="center">💖 My Favorite Stack 💖</h1>
-
-<div align="center">
-  <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
 
 <!-- Visitor count -->
 <!-- <h3 align="center">Visitor count</h3>
