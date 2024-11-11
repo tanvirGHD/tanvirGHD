@@ -1,9 +1,9 @@
 tanvirGHD<!-- Badge -->
 
-![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
+
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Projects](https://img.shields.io/badge/projects-30-important)
-![Living](https://img.shields.io/badge/living-Natore-3c9)
+![Projects](https://img.shields.io/badge/projects-15-important)
+![Living](https://img.shields.io/badge/living-Dhaka-3c9)
 ![Age](https://img.shields.io/badge/age-24-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social)](https://github.com/tanvirGHD)&nbsp;
@@ -41,14 +41,13 @@ tanvirGHD<!-- Badge -->
 <div>
 <!-- left side section -->
 
-- 🎯 I’m currently learning Next.js.
-- 🥅 2024 Goals: To be a Master of Next js, React Native, and Testing
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
-- 💻 Currently working on [Hablu Programmer](https://www.hablu-programmer.com)
-- 🤔 I’m looking for help with To increase efficiency
-- 📫 How to reach me: shahriyar.hosen.dev@gmail.com
-<!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
-<!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
+
+## 📖 Favorite Quote:
+> "Code is like humor. When you have to explain it, it’s bad."> 
+- 🔭 I’m currently working on **Web Development**
+- 🎯 I’m currently learning **React**
+- 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, ECMAScript, React**
+- ⚡ Fun fact: I am a programmer, I have no life
 </div>
 
 <br/>
