@@ -146,19 +146,6 @@ tanvirGHD<!-- Badge -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/tanvirGHD/image/upload/v1676877581/Store/node-js_yvcjpp.png" alt="nodejs" width="35" height="40"/> 
-  </a> 
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/tanvirGHD/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/tanvirGHD/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
-  </a>
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
