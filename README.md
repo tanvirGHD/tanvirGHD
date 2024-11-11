@@ -41,6 +41,7 @@ tanvirGHD<!-- Badge -->
 <div>
 <!-- left side section -->
 ## 📖 Favorite Quote:
+  
 > "Code is like humor. When you have to explain it, it’s bad."> 
 - 🔭 I’m currently working on **Web Development**
 - 🎯 I’m currently learning **React**
