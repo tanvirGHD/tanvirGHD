@@ -1,14 +1,11 @@
-tanvirGHD<!-- Badge -->
-
 
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Projects](https://img.shields.io/badge/projects-15-important)
 ![Living](https://img.shields.io/badge/living-Dhaka-3c9)
-![Age](https://img.shields.io/badge/age-24-blueviolet)
+![Age](https://img.shields.io/badge/age-22-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social)](https://github.com/tanvirGHD)&nbsp;
 
-<h1 align="center" >💥 💫💥 Welcome To My Github Profile 💥💫💥</h1>
+<h1 align="center" >💫 Welcome To My Github Profile 💫</h1>
 
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
@@ -18,7 +15,7 @@ tanvirGHD<!-- Badge -->
     <!--Bd flag-->
     <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
     <br/> 
-    Hello, I'm Tanvir Ahammad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
+    Hello, I'm Tanvir Ahammad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">! 
     <br/> 
     I'm an enthusiastic and passionate Web Developer from Bangladesh.
   </h3>
