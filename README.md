@@ -100,10 +100,10 @@
   </a>
 </p>
 
-<h1 align="left">
+<h1 align="center">
 Contact with me 
   </h1>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/tanvir-ahammad012" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
   </a>
