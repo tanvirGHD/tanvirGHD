@@ -26,7 +26,9 @@
   </h3>
 
   <div align="left" text-align= "justify">
-    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥Next.js app and 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+💻 **I’m a Front-End Web Developer** skilled in **HTML, CSS, TailwindCSS, JavaScript, React**, and API integration. Alongside my front-end expertise, I have hands-on experience with **Node.js, Express.js, MongoDB**, and **JWT authentication**, allowing me to work confidently across the **🎯MERN stack**.  
+
+🚀 I’m passionate about building responsive, user-friendly websites and scalable applications. Always eager to learn and take on new challenges, I aim to deliver impactful web solutions that make a difference🚀!
   </div>
   <br />
 <div>
@@ -46,8 +48,8 @@
   
 > "Code is like humor. When you have to explain it, it’s bad."> 
 - 🔭 I’m currently working on **Web Development**
-- 🎯 I’m currently learning **React**
-- 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, ECMAScript, React**
+- 🎯 I’m currently learning **JWT and Axios Interceptor**
+- 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, ECMAScript, React, Nodejs, Mongodb,  firebase**
 - ⚡ Fun fact: I am a programmer, I have no life
 </div>
 
