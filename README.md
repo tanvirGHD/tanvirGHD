@@ -1,8 +1,3 @@
-![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Living](https://img.shields.io/badge/living-Dhaka-3c9)
-![Age](https://img.shields.io/badge/age-22-blueviolet)
-![views](https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social)](https://github.com/tanvirGHD)&nbsp;
 <h1 align="center" >💫 Welcome To My Github Profile 💫</h1>
 <div align="center">
 <img height="200" src="https://i.ibb.co.com/8jTJZVr/tanvir.png"  />
@@ -46,7 +41,14 @@
 </div>
 
 
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="30" alt="youtube logo"  />
+</div>
 
 
 <br/>
