@@ -40,7 +40,9 @@
 - ⚡ Fun fact: I am a programmer, I have no life
 </div>
 
-
+  <h1 align="left">
+Contact with me 
+  </h1>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo"  />
