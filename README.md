@@ -1,6 +1,6 @@
 <h1 align="center">💫 Welcome To My Github Profile 💫</h1>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/focus-FullStack-critical" alt="Focus Badge" />
   <img src="https://img.shields.io/badge/living-Dhaka-3c9" alt="Living Badge" />
   <img src="https://img.shields.io/badge/age-22-blueviolet" alt="Age Badge" />
@@ -9,11 +9,10 @@
     <img src="https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
 </div>
-
+</br>
 <div align="center">
   <img height="200" src="https://i.ibb.co/8jTJZVr/tanvir.png" alt="Profile Image" />
 </div>
-
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
 <div>
