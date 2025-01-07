@@ -26,9 +26,10 @@
   </h3>
 
   <div align="left" text-align= "justify">
-#
-💻 **I’m a Front-End Web Developer** skilled in **HTML, CSS, TailwindCSS, JavaScript, React**, and **API integration**. Alongside my front-end expertise, I have hands-on experience with **Node.js, Express.js, MongoDB**, and **JWT authentication**, enabling me to work confidently across the **🎯MERN stack**.  
-🚀 I am passionate about building **responsive**, **user-friendly**, and **scalable** web applications. Always eager to learn and embrace new challenges, I strive to deliver impactful and innovative web solutions!  
+
+💻 **I’m a Front-End Web Developer** skilled in **HTML**, **CSS**, **TailwindCSS**, **JavaScript**, **React**, and **API integration**. Alongside my front-end expertise, I have hands-on experience with **Node.js**, **Express.js**, **MongoDB**, and **JWT authentication**, enabling me to work confidently across the **🎯MERN stack**.  
+
+🚀 I am passionate about building **responsive**, **user-friendly**, and **scalable** web applications. Always eager to learn and embrace new challenges, I strive to deliver impactful and innovative web solutions!
   </div>
   <br />
 <div>
