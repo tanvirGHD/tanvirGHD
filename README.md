@@ -1,12 +1,19 @@
-<h1 align="center" >💫 Welcome To My Github Profile 💫</h1>
+<h1 align="center">💫 Welcome To My Github Profile 💫</h1>
+
 <div align="center">
-<img height="200" src="https://i.ibb.co.com/8jTJZVr/tanvir.png"  />
+  <img height="200" src="https://i.ibb.co/8jTJZVr/tanvir.png" alt="Profile Image" />
 </div>
-![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Living](https://img.shields.io/badge/living-Dhaka-3c9)
-![Age](https://img.shields.io/badge/age-22-blueviolet)
-![views](https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social)](https://github.com/tanvirGHD)&nbsp;
+
+<div align="center">
+  <img src="https://img.shields.io/badge/focus-FullStack-critical" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/living-Dhaka-3c9" alt="Living Badge" />
+  <img src="https://img.shields.io/badge/age-22-blueviolet" alt="Age Badge" />
+  <img src="https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
+  <a href="https://github.com/tanvirGHD">
+    <img src="https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social" alt="GitHub Followers Badge" />
+  </a>
+</div>
+
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
 <div>
