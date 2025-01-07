@@ -40,10 +40,6 @@
 - ⚡ Fun fact: I am a programmer, I have no life
 </div>
 
-Share
-
-TA
-You said:
 <!-- === === === === === === Technologies that I know === === === === === === === -->
 
 <br/>
