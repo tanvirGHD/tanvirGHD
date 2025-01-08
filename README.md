@@ -48,7 +48,7 @@
 ## 📖 Favorite Quote:
   
 > "Code is like humor. When you have to explain it, it’s bad."> 
-- 🔭 I’m currently working on [Visa Navigator](https://visa-navigate-6d091.web.app/all-visas)
+- 🔭 I’m currently working on [Chill Gamer](https://chill-gamer-project.web.app/)
 - 🎯 I’m currently learning **JWT and Axios Interceptor**
 - 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, ECMAScript, React, Nodejs, Mongodb,  firebase**
 - ⚡ Fun fact: I am a programmer, I have no life
