@@ -10,9 +10,11 @@
   </a>
 </div>
 </br>
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/wNKHk33/tanvir-2.png" alt="Profile Image" />
-</div>
+
+<p align="center">
+  <img src="https://i.ibb.co.com/wNKHk33/tanvir-2.png" alt="Profile Image" width="100%" />
+</p>
+
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
 <div>
