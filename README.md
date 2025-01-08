@@ -11,7 +11,7 @@
 </div>
 </br>
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/c8r42Ds/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Profile Image" />
+  <img height="200" src="https://i.ibb.co.com/wNKHk33/tanvir-2.png" alt="Profile Image" />
 </div>
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
