@@ -12,8 +12,9 @@
 </br>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/wNKHk33/tanvir-2.png" alt="Profile Image" width="100%" />
+  <img src="https://i.ibb.co/wNKHk33/tanvir-2.png" alt="Profile Image" width="500px" />
 </p>
+
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
 <div>
