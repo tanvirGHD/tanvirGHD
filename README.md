@@ -12,7 +12,7 @@
 </br>
 
 <p align="center">
-  <img src="https://ibb.co.com/5hZsQ87H" alt="Profile Image" width="full" />
+  <img src="https://i.ibb.co.com/whtpnWvm/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Profile Image" width="full" />
 </p>
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
